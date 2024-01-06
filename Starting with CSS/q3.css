@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(205, 43, 226);
+    text-align: center;
+}
+
+content{
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    background-color: white;  
+    width: 50%;
+    
+}
+
+button{
+    opacity: 70%;
+    color: black;
+    background-color: cadetblue;
+}
+
+#fname{
+    background-color: azure
+}
+
+#lname{
+    background-color: beige;
+}
+
+#email{
+    background-color: bisque;
+}
+
+#phno{
+    background-color: azure;
+}
+
+#age{
+    background-color: beige;
+}
+
+
